@@ -54,6 +54,16 @@
     },
     {
       "id": 6,
+      "nome": "Corinthians — Away 2025",
+      "descricao": "A camisa que homenageia os 25 anos da conquista do primeiro Mundial de Clubes da FIFA em 2000.",
+      "preco": 109,
+      "badge": "Nacional",
+      "estoque": 2,
+      "cor_grad": "rgba(57,255,20,.1)",
+      "cor_pos": "30% 60%"
+    },
+    {
+      "id": 7,
       "nome": "Santos FC — Retrô 1960",
       "descricao": "Edição retrô em homenagem ao bi-campeão mundial. Bordado vintage.",
       "preco": 219,
