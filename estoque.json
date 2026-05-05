@@ -1,0 +1,66 @@
+{
+  "loja": "AMVSports",
+  "atualizado": "2025-01-01",
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Flamengo — Home 2025",
+      "descricao": "Camisa oficial do Rubro-Negro carioca. Dry-fit respirável com escudo bordado.",
+      "preco": 189,
+      "badge": "Nacional",
+      "estoque": 12,
+      "cor_grad": "rgba(57,255,20,.15)",
+      "cor_pos": "30% 70%"
+    },
+    {
+      "id": 2,
+      "nome": "Palmeiras — Away 2025",
+      "descricao": "Versão visitante do Verdão, edição limitada com detalhes dourados.",
+      "preco": 199,
+      "badge": "Nacional",
+      "estoque": 8,
+      "cor_grad": "rgba(0,150,255,.15)",
+      "cor_pos": "70% 30%"
+    },
+    {
+      "id": 3,
+      "nome": "Real Madrid — Home 2025",
+      "descricao": "A tradicional camisa branca merengue com tecnologia AeroReady.",
+      "preco": 279,
+      "badge": "Internacional",
+      "estoque": 5,
+      "cor_grad": "rgba(255,50,50,.12)",
+      "cor_pos": "50% 80%"
+    },
+    {
+      "id": 4,
+      "nome": "Manchester City — Away 2025",
+      "descricao": "Camisa visitante dos Citizens em azul marinho com detalhes ciano.",
+      "preco": 259,
+      "badge": "Internacional",
+      "estoque": 0,
+      "cor_grad": "rgba(255,200,0,.12)",
+      "cor_pos": "20% 20%"
+    },
+    {
+      "id": 5,
+      "nome": "Brasil — Canarinho 2025",
+      "descricao": "A camisa mais amada do país. Amarelo ouro com verde bandeira.",
+      "preco": 229,
+      "badge": "Seleção",
+      "estoque": 20,
+      "cor_grad": "rgba(57,255,20,.1)",
+      "cor_pos": "80% 60%"
+    },
+    {
+      "id": 6,
+      "nome": "Santos FC — Retrô 1960",
+      "descricao": "Edição retrô em homenagem ao bi-campeão mundial. Bordado vintage.",
+      "preco": 219,
+      "badge": "Retrô",
+      "estoque": 3,
+      "cor_grad": "rgba(150,0,255,.1)",
+      "cor_pos": "40% 40%"
+    }
+  ]
+}
