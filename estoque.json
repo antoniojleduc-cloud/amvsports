@@ -59,6 +59,7 @@
       "preco": 109,
       "badge": "Nacional",
       "estoque": 2,
+      "imagem": "https://raw.githubusercontent.com/antoniojleduc-cloud/amvsports/main/imagens/flamengo-home.jpg",
       "cor_grad": "rgba(57,255,20,.1)",
       "cor_pos": "30% 60%"
     },
